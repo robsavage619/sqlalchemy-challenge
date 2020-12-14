@@ -115,3 +115,7 @@ Trilogy Education Services © 2020. All Rights Reserved.
 
 
 - - -
+
+Built with: Python/NumPy/SQL Alchemy in Python
+
+Author: Rob Savage
